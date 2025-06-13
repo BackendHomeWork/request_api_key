@@ -15,4 +15,3 @@ def get_random_name(nameType:str, quantity: int):
     - Include the API key in the X-Api-Key header
     - Print the random name from the response
     """
-    pass
